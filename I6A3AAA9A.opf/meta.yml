@@ -1,0 +1,36 @@
+id: I6A3AAA9A
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T23:51:19.774701'
+last_modified: '2022-06-18T23:51:19.774715'
+parser: null
+source_metadata:
+  title: Vinayasūtra of Guṇaprabha (Gong dkar block print), colophon excerpt
+  author: yon tan od/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2016-02-07); revised, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:tshe ring grong shar/ (ut)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Mathias Fermer (mf)
+  text_witnesses: https://sakyaresearch.org/sources/739
+  bases:
+    9e31:
+      title: Vinayasūtra of Guṇaprabha (Gong dkar block print), colophon excerpt
+      order: 1
+      base_file: 9e31.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
